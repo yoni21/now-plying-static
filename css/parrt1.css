@@ -1,0 +1,70 @@
+body {
+	  padding-bottom: 0px;
+	}
+
+
+	.site-logo {
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 70px;
+	  height: 70px;
+	  margin: 0;
+	  z-index: 100;
+	  padding: 10px;
+	  background-color: #ffffff;
+	}
+
+
+	.site-logo-image{
+	  width: 60px;
+	  height: 60px;
+	}
+
+
+	.site-nav {
+	  position: fixed;
+	  top: 70px;
+	  bottom: 0;
+	  left: 0;
+	  width: 70px;
+	  height: 100%;
+	}
+
+
+	.site-nav-item {
+	  float: none;
+	  height: 60px;
+	  width:  70px;
+	}
+
+
+	main, footer {
+	  margin-left: 70px;
+	}
+
+
+	.movie-overview {
+	  display: inline;
+	}
+
+
+	.site-footer {
+	  clear: both;
+	  overflow: hidden;
+	  background-color: black;
+	  color: white;
+
+
+	}
+
+
+	.footer-nav {
+	  float: left;
+	  text-align: center;
+	}
+
+
+	.about {
+	  float: right;
+	}
